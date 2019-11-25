@@ -1,6 +1,6 @@
 server.port=9999
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-spring.datasource.url=jdbc:mysql://172.24.51.53:3306/group10?useunicode=true;&characterEncoding=utf8
+spring.datasource.url=jdbc:mysql://172.24.51.53:3306/cms?useunicode=true;&characterEncoding=utf8
 spring.datasource.username=root
 spring.datasource.password=root
 
